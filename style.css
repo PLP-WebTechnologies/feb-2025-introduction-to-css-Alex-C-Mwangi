@@ -1,0 +1,31 @@
+#mastingo{
+    color:blueviolet;
+    font-weight: bold;
+}
+
+.note{
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+body{
+    background-image: url('picture/Kenya.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: right;
+}
+
+.container{
+    background-color: aqua;
+    border: 2px solid;
+    margin-bottom: 30px;
+}
+
+.section{
+    background-color: lightgreen;
+    border: 3px dotted;
+    margin: 20px;
+    padding: 25px;
+}
